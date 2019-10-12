@@ -1,1 +1,2 @@
-# Elektronsko-poslovanje
+# Elektronsko Poslovanje
+# Aleksandar Radosavljevic
