@@ -1,2 +1,2 @@
 # Elektronsko Poslovanje
-# Aleksandar Radosavljevic
+# Srdjan Maricic
